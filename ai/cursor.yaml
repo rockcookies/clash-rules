@@ -1,0 +1,7 @@
+payload:
+# >> https://github.com/SkywalkerJi/Clash-Rules/blob/master/AI/Cursor.yaml
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor-cdn.com
+  - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,workos.com
