@@ -1,0 +1,5 @@
+payload:
+# >> Feiniu
+  - DOMAIN-SUFFIX,fn.com
+  - DOMAIN-SUFFIX,idc1.fn
+  - DOMAIN-SUFFIX,beta1.fn
